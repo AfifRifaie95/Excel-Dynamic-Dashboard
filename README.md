@@ -10,5 +10,6 @@ MavenToys_Monthly_Sales : a monthly KPI dashboard to track regional performance
 
 US_Labor_Statistics : a dashboard to explore salary and employment data across key industries in the US
 
+<img width="881" alt="Screenshot 2024-03-21 121034" src="https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/80bdc6e5-5f7f-4995-898c-d602fa07d680">
 
 
