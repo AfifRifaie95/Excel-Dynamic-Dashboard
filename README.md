@@ -1,7 +1,5 @@
 # Microsoft Excel Dynamic Dashboard
 
-![Microsoft_Office_Excel_(2019–present) svg](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/efc08f2c-ba53-4150-8423-7f3d99e27cfd)
-
 
 MHG_Booking : visualize hotel booking data to show key cancellation patterns and business insights
 
