@@ -1,16 +1,117 @@
 # Microsoft Excel Dynamic Dashboard
 
+## Table of Content
 
-MHG_Booking : visualize hotel booking data to show key cancellation patterns and business insights
+- [US Labor Summary](#US-Labor-Summary)
+- [Toys Sales Summary](#Toys-Sales-Summary)
+- [Hotel Booking Summary](#Hotel-Booking-Summary)
 
-<img width="637" alt="Screenshot 2024-03-21 120722" src="https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/2ca4bee3-02b1-41c5-ae13-0d4588277029">
+### Project Overview
 
-MavenToys_Monthly_Sales : a monthly KPI dashboard to track regional performance
+The aim of this project is to build professional-quality dashboards. It showcases my ability to apply powerful techniques for transforming raw data into beautiful, interactive visuals in Excel. The dahsboard are guided project by Maven Analytics.
 
-<img width="800" alt="Screenshot 2024-03-21 120844" src="https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/aa3634be-cd03-4ce7-82b0-3339a732e2f8">
+### Data Source
 
-US_Labor_Statistics : a dashboard to explore salary and employment data across key industries in the US
+The datasets are obtianed from Maven Analytics. 
 
-<img width="881" alt="Screenshot 2024-03-21 121034" src="https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/80bdc6e5-5f7f-4995-898c-d602fa07d680">
+### Dashboard
+- US Labor Dataset. Build a dashboard to explore salary and employment data across key industries in the US.
+
+- Toys Sales Dataset. Design a monthly KPI dashboard for sales managers to track regional performance.
+
+- Hotel Sales Dataset. Visualize hotel booking data to show key cancellation patterns and business insights
+
+
+# US Labor Summary
+### Dataset Overview 
+US labor Statistic by Industry & state from 2017 to 2020 with total of 1,918 records.
+
+### Dimension & Measures:
+- Dimensions: Year, Industry, State
+- Measures: Establishment, Employees, AVG Annual Wage
+
+
+![US Labor Dataset Dimension   Measures](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/bffc287c-e20a-41a5-9c00-ace9f4b1418a)
+
+
+
+### Excel Concept Covered
+- Statistical & Lookup Formulas
+- Inserting & Formatting Custom Charts
+- Dynamically Highlighting Series
+- Creating New Data with Data Types
+- Adding Form Controls
+- Protecting Workbooks & Worksheets
+
+### Data Preparation
+  
+![US Labor Dataset Data Preparation](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/94ad7e1e-f135-46c8-8d05-e89faf37b82e)
+
+
+### Dashboard Overview
+
+
+![US Labor Dataset Dashboard](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/13d95367-ff52-4c25-91c0-64bc872a45cb)
+
+
+# Toys Sales Summary
+### Dataset Overview 
+Monthly sales figure, from January 2020 to July 2021 with total of 4,265 records.
+
+### Dimension & Measures:
+- Dimensions: Year, Month, Store Name,/Region/Type, Product Name/Category
+- Measures: Unit Solds, Reveune, Profit
+
+
+![Toy Monthly Sales Dimension   Measures](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/1fca1d33-0682-4020-87ec-7d662e468cfa)
+
+
+### Excel Concept Covered
+- Top N Formulas
+- Previous Period Calculations
+- Automatic Sorting
+- Conditional Formatting
+
+### Data Preparation
+
+
+![Toy Monthly Sales Data Preparation](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/0a345ad6-0e82-4119-accc-58f0fa84ef43)
+
+
+### Dashboard Overview
+
+
+![Toy Monthly Sales Dashboard](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/eb9a829a-375b-459c-a0d8-1bf0406418b8)
+
+
+
+# Hotel Booking Summary
+### Dataset Overview 
+Hotel booking data from January 2025 to July 2017 with total of over 100,000 records.
+
+### Dimension & Measures:
+- Dimensions: Booking ID, Hotel, Booking/Arrival Date, Distribution Channel, Customer Type, Country, Deposit Type, Status Update, Cancelled (0/1)
+- Measures: Lead Time, Nights, Guests, Revenue, Loss
+
+
+![Toy Monthly Sales Dimension   Measures](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/1fca1d33-0682-4020-87ec-7d662e468cfa)
+
+
+### Excel Concept Covered
+- Pivot Charts
+- Partial Pivot Charts
+- Conditional Number Formats
+
+
+### Data Preparation
+
+![image](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/b35f87e0-1a5f-4ff5-83bb-ba919455c24e)
+
+
+
+### Dashboard Overview
+
+![image](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/b9418a17-12f3-43d3-a464-c95edff71e6d)
+
 
 
