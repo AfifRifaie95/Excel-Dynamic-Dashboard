@@ -41,7 +41,6 @@ US labor Statistic by Industry & state from 2017 to 2020 with total of 1,918 rec
 - Dynamically Highlighting Series
 - Creating New Data with Data Types
 - Adding Form Controls
-- Protecting Workbooks & Worksheets
 
 ### Data Preparation
   
