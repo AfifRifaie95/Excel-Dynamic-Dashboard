@@ -22,7 +22,7 @@ The datasets are obtianed from Maven Analytics.
 - Hotel Sales Dataset. Visualize hotel booking data to show key cancellation patterns and business insights
 
 
-# US Labor Summary 👷
+# US Labor Summary
 ### Dataset Overview 
 US labor Statistic by Industry & state from 2017 to 2020 with total of 1,918 records.
 
@@ -54,7 +54,7 @@ US labor Statistic by Industry & state from 2017 to 2020 with total of 1,918 rec
 ![US Labor Dataset Dashboard](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/13d95367-ff52-4c25-91c0-64bc872a45cb)
 
 
-# Toys Sales Summary 🧸
+# Toys Sales Summary
 ### Dataset Overview 
 Monthly sales figure, from January 2020 to July 2021 with total of 4,265 records.
 
@@ -85,7 +85,7 @@ Monthly sales figure, from January 2020 to July 2021 with total of 4,265 records
 
 
 
-# Hotel Booking Summary 🏨
+# Hotel Booking Summary
 ### Dataset Overview 
 Hotel booking data from January 2025 to July 2017 with total of over 100,000 records.
 
