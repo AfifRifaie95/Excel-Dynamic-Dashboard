@@ -8,7 +8,7 @@
 
 ### Project Overview
 
-The aim of this project is to build professional-quality dashboards. It showcases my ability to apply powerful techniques for transforming raw data into beautiful, interactive visuals in Excel. The dahsboard are guided project by Maven Analytics.
+The aim of this project is to build professional dashboards. It showcases my ability to apply multiple techniques for transforming raw data into interactive visuals in Excel. The dahsboard are guided project by Maven Analytics.
 
 ### Data Source
 
