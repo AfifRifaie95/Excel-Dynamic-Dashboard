@@ -12,7 +12,7 @@ The aim of this project is to build professional dashboards. It showcases my abi
 
 ### Data Source
 
-The datasets are obtianed from Maven Analytics. 
+The datasets are obtained from Maven Analytics. 
 
 ### Dashboard
 - US Labor Dataset. Build a dashboard to explore salary and employment data across key industries in the US.
