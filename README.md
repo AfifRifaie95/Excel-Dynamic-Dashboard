@@ -15,11 +15,11 @@ The aim of this project is to build professional dashboards. It showcases my abi
 The datasets are obtained from Maven Analytics. 
 
 ### Dashboard
-- US Labor Dataset. Build a dashboard to explore salary and employment data across key industries in the US.
+- US Labor Dataset. a dashboard to explore salary and employment data across key industries in the US.
 
-- Toys Sales Dataset. Design a monthly KPI dashboard for sales managers to track regional performance.
+- Toys Sales Dataset. Monthly KPI dashboard to track regional performance.
 
-- Hotel Sales Dataset. Visualize hotel booking data to show key cancellation patterns and business insights
+- Hotel Sales Dataset. Visualize hotel booking data to show key cancellation patterns and business insights.
 
 
 # US Labor Summary
@@ -100,6 +100,7 @@ Hotel booking data from January 2025 to July 2017 with total of over 100,000 rec
 - Pivot Charts
 - Partial Pivot Charts
 - Conditional Number Formats
+- Storry Telling
 
 
 ### Data Preparation
