@@ -1,6 +1,6 @@
 # Microsoft Excel Dynamic Dashboard
 
-![image](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/e829728c-226a-4a92-b2ea-b91062042256)
+![image](https://github.com/AfifRifaie95/Excel-Dynamic-Dashboard/assets/159521904/92306f74-02e5-454f-8145-36eb4aaaae25)
 
 
 ## Table of Content
